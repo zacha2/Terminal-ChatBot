@@ -11,9 +11,9 @@ setuptools.setup(
     description=("Script that runs gemini in terminal"),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/liuzheng1990/python_packaging_demo",
+    url="https://github.com/zacha2/Terminal-ChatBot",
     project_urls={
-        "Bug Tracker": "https://github.com/liuzheng1990/python_packaging_demo/issues",
+        "Bug Tracker": "https://github.com/zacha2/Terminal-ChatBot/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -25,7 +25,7 @@ setuptools.setup(
     python_requires=">=3.6",
     entry_points={
         "console_scripts": [
-            "download = downloader.cli:main",
+            "chatbot = chatbot.cli:main",
         ]
     }
 )
