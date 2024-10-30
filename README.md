@@ -9,6 +9,7 @@ Once you have installed the package, run: `chatbot (your message)` in terminal
 
 
 Credits:
+
 Liu Zheng: https://betterprogramming.pub/build-your-python-script-into-a-command-line-tool-f0817e7cebda
 
 Hillary Nyakundi: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
