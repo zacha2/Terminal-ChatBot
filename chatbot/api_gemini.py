@@ -18,4 +18,4 @@ def ai_response(user_input):
 
     for word in response_list:
         print(f"{word} ", end='', flush=True)
-        time.sleep(0.2)
+        time.sleep(0.1)
